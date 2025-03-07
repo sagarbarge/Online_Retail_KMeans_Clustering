@@ -13,7 +13,11 @@ https://archive.ics.uci.edu/dataset/352/online+retail
 
 # Steps:
   Read and understand data
+  
   Data Cleaning
+  
   Prepare data for modelling
+  
   Modelling
+  
   Final Analysis and recommendation
