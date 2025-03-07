@@ -7,12 +7,12 @@ Data Source:
 https://archive.ics.uci.edu/dataset/352/online+retail
 
 # Objectives:
-1.Identify distinct customer segments for targeting them based on RFM scores.
-2.Categorize customers into high-value, mid-tier, and low-value groups.
+  1.Identify distinct customer segments for targeting them based on RFM scores.
+  2.Categorize customers into high-value, mid-tier, and low-value groups.
 
 # Steps:
-Read and understand data
-Data Cleaning
-Prepare data for modelling
-Modelling
-Final Analysis and recommendation
+  Read and understand data
+  Data Cleaning
+  Prepare data for modelling
+  Modelling
+  Final Analysis and recommendation
