@@ -12,12 +12,12 @@ https://archive.ics.uci.edu/dataset/352/online+retail
   2.Categorize customers into high-value, mid-tier, and low-value groups.
 
 # Steps:
-  Read and understand data
+  1. Read and understand data
   
-  Data Cleaning
+  2. Data Cleaning
   
-  Prepare data for modelling
+  3. Prepare data for modelling
   
-  Modelling
+  4. Modelling
   
-  Final Analysis and recommendation
+  5. Final Analysis and recommendation
